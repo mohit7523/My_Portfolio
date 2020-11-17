@@ -1,0 +1,108 @@
+body{
+				background-image:  url(Images/bgimg.jpg);
+			    background-attachment: fixed;
+				background-repeat: no-repeat;
+				color: red;
+				
+				
+		        
+			}
+			#text{
+				color: orange;
+				
+		       font-family:Impact,characoal, sans-serif;
+		       
+			}
+			.para{
+				color: green;
+				text-decoration-style: underline;
+				size: 5px;
+			}
+			span{
+				font-family: cursive;
+				color: yellow;
+			}
+			.img1{
+				border:3px solid white;
+				border-radius: 10px;
+
+			}
+			.btn1{
+				border: 3px outset red;
+				
+				width: 200px;
+				height: 30px;
+				border-radius: 15px;
+				text-align: left;
+				 background: linear-gradient(to right, #45dcaa 7%, #ee12cc 64%)
+                       }
+				
+			}
+			
+			.f1{
+				font-style: bold;
+				color: white;
+				font-size: 15px;
+				margin-top: 15px;
+
+			}
+			#sub{
+				align-self: center;
+				color: white;
+				border-radius: 200px;
+				background-color: red;
+				margin-left: 30px;
+				width: 80px;
+			}
+
+
+.bgimg{
+ background-image: url(Images/img.png);
+}
+.navbar2{
+	background-color: black;
+	height: 50px;
+
+}
+.btn{
+	padding: 5px;
+	margin: 5px;
+	background-color: red;
+	margin-top: 10px;
+}
+.navbar-right{
+	margin-right: 100px;
+}
+.rounded-circle{
+	border:2px solid tomato;
+	width: 250px;
+	height: 250px;
+	border-radius: 1500px;
+}
+.intro{
+	margin-top: 100px;
+	
+
+}
+.footer{
+	
+	width: 700px;
+	height: 150px;
+	background-color: #333300;
+	
+}
+#ft{
+	color: white;
+	margin-left: 100px;
+	
+	text-decoration-style: underline;
+}
+.icn{
+
+	border-color: red;
+	border-radius: 10px;
+	margin:10px;
+}
+#t1{
+	color: #cccc00;
+}
